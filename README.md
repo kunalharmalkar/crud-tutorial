@@ -1,8 +1,6 @@
 # CRUD App Tutorial
 
-This contains the finished code for the tutorial on building a CRUD dApp
-
-[Reference](https://docs.near.org/docs/tutorials/apps/todos-crud-app)
+This contains the finished code for the tutorial on [building a CRUD dApp](https://docs.near.org/docs/tutorials/apps/todos-crud-app)
 
 # Notes
 
