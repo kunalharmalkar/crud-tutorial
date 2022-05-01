@@ -19,7 +19,7 @@ const App = ({ contract, currentUser, nearConfig, wallet }) => {
   };
   return (
     <>
-      <h1>NEAR Todos CRUD App</h1>
+      <h1>Blockchain registry (test)</h1>
       { currentUser
           ? <div>
               <h2>

@@ -22,11 +22,11 @@ const CreateTodo = ({ contract }) => {
     <form onSubmit={handleSubmit}>
       <input
         type="text"
-        placeholder="Buy Groceries"
+        placeholder="Buy Property"
         value={task}
         onChange={({ target }) => setTask(target.value)}
       />
-      <button disabled={loading}>Create Task</button>
+      <button disabled={loading}>Add to registry</button>
     </form>
   );
 }
